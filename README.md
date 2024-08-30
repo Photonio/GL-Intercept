@@ -12,3 +12,6 @@ doc: https://opengl.org/sdk/tools/GLIntercept/
 
 ## Intel GPA (Graphics Performance Analyzers)
 https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html
+
+## APITrace
+https://github.com/apitrace/apitrace
